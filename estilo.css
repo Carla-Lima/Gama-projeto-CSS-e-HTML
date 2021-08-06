@@ -17,7 +17,8 @@ a {
 body {
     height: 100vh;
     color: #3b094b;
-    background-image: linear-gradient(to right bottom, #051937, #003c60, #00616a, #00834e, #749d17);
+    /* background-image: linear-gradient(to right bottom, #051937, #003c60, #00616a, #00834e, #749d17); */
+    background-color: aquamarine;
 }
 header {
     display: flex;
